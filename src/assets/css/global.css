@@ -40,13 +40,17 @@ body,
   position: absolute;
   top: 0px;
   right: 10px;
- }
- .el-cascader-node__label {
+}
+.el-cascader-node__label {
   width: 157px;
- }
- .el-cascader-panel .el-radio__input {
+}
+.el-cascader-panel .el-radio__input {
   visibility: hidden;
- }
- .el-cascader-panel .el-cascader-node__postfix {
+}
+.el-cascader-panel .el-cascader-node__postfix {
   top: 10px;
- }
+}
+
+.ql-editor {
+  min-height: 300px;
+}
